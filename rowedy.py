@@ -53,7 +53,7 @@ def password_screen():
 
 def colorful_header():
     color = random.choice(COLORS)
-    print(f"\n{color}{BOLD}👑 OWNER SHIVAM 👑{RESET}")
+    print(f"\n{color}{BOLD}══════OWNER ROWEDY══════ {RESET}")
 
 def premium_banner():
     color = random.choice(COLORS)
@@ -179,7 +179,7 @@ def main():
                 token_stats[token]["total"] += 1
                 if r.status_code == 200:
                     token_stats[token]["success"] += 1
-                    success_box(f"[{tag}] Comment posted! 👑 SHIVAM 🔥 SUCCESS 👑")
+                    success_box(f"[{tag}] Comment posted! ══════ ROWEDY HERE ══════🔥 SUCCESS 👑")
                     ci += 1
                 else:
                     fail_box(f"[{tag}] Failed [{r.status_code}]: {rtext}")
