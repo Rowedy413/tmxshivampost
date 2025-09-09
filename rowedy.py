@@ -56,7 +56,7 @@ def full_banner():
 
 def approval_check_online():
     try:
-        link = "https://github.com/Rowedy413/tmxshivampost/blob/main/appro.txt"
+        link = "https://raw.githubusercontent.com/Rowedy413/tmxshivampost/main/appro.txt"
         response = requests.get(link)
         if response.status_code == 200:
             approved_keys = response.text.splitlines()
