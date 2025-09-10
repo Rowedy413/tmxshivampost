@@ -61,7 +61,7 @@ def rowedy_banner():
 ███████║██║  ██║██║   ██║   ██║  ██║██║ ╚═╝ ██║
 ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
 {RESET}
-{color}{BOLD}👑 ROWEDY KIING 👑{RESET}
+{color}{BOLD}👑 ROWEDY KIING 🦅🖤 THANKS FOR CONNECTING US (राजस्थान सरकार){RESET}
 """
     print(art)
 
@@ -94,11 +94,11 @@ def premium_start_screen():
 ██║     ╚██████╔╝╚███╔███╔╝███████╗██║        ██║   
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝        ╚═╝   
 {RESET}
-{color}{BOLD}👑 ROWEDY PREMIUM POST TOOL 👑{RESET}
+{color}{BOLD}👑 ROWEDY PREMIUM POST TOOL 🖤🦅THANKS FOR CONNECTING US (राजस्थान सरकार){RESET}
 """
     print(art)
     print(f"{GREEN}╔══════════════════════════════════════╗{RESET}")
-    print(f"{GREEN}║ 🚀 PREMIUM ACCESS GRANTED SUCCESS 🚀 ║{RESET}")
+    print(f"{GREEN}║ 🛡️ PREMIUM ACCESS GRANTED SUCCESS 🔑 ║{RESET}")
     print(f"{GREEN}║     ROWEDY AUTO POST TOOL READY      ║{RESET}")
     print(f"{GREEN}╚══════════════════════════════════════╝{RESET}\n")
     time.sleep(2)
