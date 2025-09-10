@@ -1,12 +1,14 @@
-FOR USE THIS TOOL COPY AND PEST
+====INATIONAL PACKAGE FOR CMDS =====
 
 pkg update && pkg upgrade -y
 pkg install git python -y
 pip install requests
 pip install pyperclip
 
+===============ROWEDY COMAND===========
+
+cd ~
+rm -rf tmxshivampost
 git clone https://github.com/Rowedy413/tmxshivampost.git
-
 cd tmxshivampost
-
 python3 rowedy.py
