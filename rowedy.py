@@ -2,6 +2,8 @@ import requests
 import time
 import random
 import sys
+sys.dont_write_bytecode = True
+
 import io
 import os
 import subprocess
