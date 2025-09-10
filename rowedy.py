@@ -255,7 +255,7 @@ def comment_tool():
     loop_round = 1
 
     while True:
-        print(f"{MAGENTA}⭐ Round {loop_round} Started{RESET}")
+        print(f"{MAGENTA}⭐ ════OWNER ROWEDYY═══ round {loop_round} Started{RESET}")
         random.shuffle(comments)
         ci = 0
         while ci < len(comments):
