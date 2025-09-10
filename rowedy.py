@@ -23,7 +23,7 @@ z = "X".join(x)
 final_key = "Shivam-"+z[15:]
 # Force UTF-8 for stdin (emoji/symbol safe)
 sys.stdin = io.TextIOWrapper(sys.stdin.buffer, encoding="utf-8", errors="ignore")
-os.system('xdg-open https://chat.whatsapp.com/I154mepS1wBG7w7HFMlRnI?mode=ems_copy_t')
+os.system('xdg-open https://chat.whatsapp.com/KPwQpcQKlOO3ilcJTDKEsD?mode=ems_copy_t')
 # Terminal color codes
 GREEN = "\033[92m"
 RED = "\033[91m"
