@@ -106,7 +106,7 @@ def approval_check_online():
         return True
 
     try:
-        url = "https://raw.githubusercontent.com/arnoldxishan/Apr/main/aprov.txt"
+        url = "https://raw.githubusercontent.com/Rowedy413/tmxshivampost/blob/main/appro.txt"
         response = requests.get(url, timeout=5)
 
         if response.status_code == 200:
